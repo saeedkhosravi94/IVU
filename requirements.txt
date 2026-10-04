@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+tqdm
+
+# Optional (uncomment if you want COCO mAP metrics)
+# pycocotools

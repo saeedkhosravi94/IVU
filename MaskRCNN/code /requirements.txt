@@ -1,0 +1,12 @@
+torch
+numpy>=1.13
+pyyaml
+matplotlib
+opencv-python>=3.2
+setuptools
+Cython
+mock
+scipy
+six
+future
+protobuf

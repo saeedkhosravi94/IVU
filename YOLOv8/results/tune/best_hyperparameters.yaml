@@ -1,0 +1,15 @@
+# 50/50 iterations complete ✅ (41084.68s)
+# Results saved to /content/drive/MyDrive/Image and Video Understanding Project/YOLO/results/results/tune5
+# Best fitness=0.15831 observed at iteration 49
+# Best fitness metrics are {'metrics/precision(B)': 0.23674, 'metrics/recall(B)': 0.19027, 'metrics/mAP50(B)': 0.11434, 'metrics/mAP50-95(B)': 0.08198, 'metrics/precision(M)': 0.2292, 'metrics/recall(M)': 0.17786, 'metrics/mAP50(M)': 0.10923, 'metrics/mAP50-95(M)': 0.06908, 'val/box_loss': 0.03614, 'val/seg_loss': 0.07213, 'val/cls_loss': 2.59702, 'val/dfl_loss': 1.388, 'fitness': 0.15831}
+# Best fitness model is /content/drive/MyDrive/Image and Video Understanding Project/YOLO/results/results/train4
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00331
+momentum: 0.91099
+weight_decay: 0.0005
+hsv_h: 0.01485
+hsv_s: 0.66737
+hsv_v: 0.43406
+scale: 0.48518
+box: 0.2
